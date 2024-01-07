@@ -24,3 +24,6 @@ Project is created with:
 * SFML version: 2.5.1
 	
 ## Setup
+```
+git clone git@github.com:jdriguy/Pong.git
+```

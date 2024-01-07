@@ -11,7 +11,7 @@ Pong app developped with C++ and with SFML 2.5.1.
 This project is a Pong application. The project includes : 
 * a title screen with a menu
 * a game screen with 
-	* racket management, 
+	* paddles management, 
  	* ball management, 
   	* a scoreboard and a win/loss message depending of the winner
    	* and collisions.
